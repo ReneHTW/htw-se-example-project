@@ -1,4 +1,4 @@
-SE Praktikum - Beispielprojekt
+# SE Praktikum - Beispielprojekt
 
 Ein Beispielprojekt für die Praktikumsaufgaben zum Thema Git und
 AsciiDoc im Fach Software Engineering I.
